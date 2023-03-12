@@ -1,10 +1,5 @@
-## Opa,blz? Sou Anildo Gomes, um cara normal, tentando ser anormal(rs)
+## Opa,blz? me conheça clicando no link ao lado <a href="https://anildogomes.github.io">Meu Portfólio</a>
 
-<div> 
-  <a href="https://anildogomes.github.io"> Ve Meu Portfólio</a>
- 
- 
-</div>
 
 <div align="center">
   <a href="https://github.com/anildogomes">
