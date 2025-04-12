@@ -12,13 +12,6 @@ Sou movido pela curiosidade e pela vontade de descobrir, seja na vida profission
 me conheça clicando no link ao lado 👉👉👉👉👉 <a href="https://anildogomes.github.io">Meu Portfólio</a>
 
 
-  
-  
-  <div> 
-  <a href="https://www.instagram.com/anildosgomes/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/anildo/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-  <a href="https://twitter.com/anildo" target="_blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white target="_blank"></a>
-
   ### 🤖 Linguagens e Tecnologias
 
 <img 
@@ -111,5 +104,24 @@ me conheça clicando no link ao lado 👉👉👉👉👉 <a href="https://anild
 <br/>
  
   ![Snake animation](https://github.com/anildogomes/anildogomes/blob/output/github-contribution-grid-snake.svg)
- 
+
+### 📊 Estatísticas
+
+<p>
+  <img 
+    align="left" 
+    alt="GitHub Stats" 
+    height="200" 
+    style="padding-right: 10px;" 
+    src="https://github-readme-stats.vercel.app/api?username=anildogomes&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
+  />
+
+<img 
+      align="left" 
+      alt="GitHub Stats" 
+      height="200" 
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=anildogomes&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
+  />
+
+</p>
 </div>
